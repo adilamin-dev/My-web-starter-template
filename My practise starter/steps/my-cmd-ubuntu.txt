@@ -1,0 +1,12 @@
+npm init
+code .
+npm install bootstrap jquery popper.js font-awesome --save
+npm install gulp browser-sync gulp-sass --save-dev
+
+------(Check gulp file path)-------
+
+sudo apt install gulp
+gulp
+
+
+------- Update required files from node modules---------
